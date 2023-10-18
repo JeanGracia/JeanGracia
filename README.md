@@ -1,9 +1,9 @@
 # 💫 About Me: Soy Jean Gracia desarrollador web Jr. php laravel
 
-Al principio, utilicé recursos gratuitos que encontré en YouTube para comenzar mi aprendizaje. Luego, tuve la oportunidad de hacer cursos en Platzi gracias a la cuenta que me prestó una amiga. Me enfoque en el backend y he estado mejorando mi lógica de programación a medida que desarrollo nuevos proyectos. Esto demuestra mi compromiso y determinación para mejorar mis habilidades.
+Al principio, utilicé recursos gratuitos que encontré en YouTube para comenzar mi aprendizaje. Luego, tuve la oportunidad de hacer cursos en Platzi gracias a la cuenta que me prestó una amiga. Me enfoque en el backend y he estado mejorando mi lógica de programación a medida que desarrollo nuevos proyectos. Esto demuestra mi compromiso y determinación para mejorar mis habilidades.<br>
+
 <br>
 <img align="right" alt="Codificación" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNiZjVjMzVkN2M0NTIzODNkYzFiNmEzYTU0YzdmZDhiNGY1MjI2MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-<br>
 🔭 Actualmente estoy trabajando en el mantenimiento de aplicaciones web<br>🌱 Actualmente estoy aprendiendo y deseo dar el siguiente paso a un Framework Full Stack para crear aplicaciones Web<br>⚡ Dato curioso **Me emocionaba la idea de tener un teclado ANSI con luces, para poder estudiar en las noches, ("es un horario en el que soy mas productivo y estoy concentrado") pero como no tenia dinero suficiente, termine encontrándome con TypingClub & MonkeyType y al cabo de 1 mes empece a escribir sin mirar el teclado, me sigue emocionando la idea de tener un teclado con luces pero mi intención es distinta.**
 
 
